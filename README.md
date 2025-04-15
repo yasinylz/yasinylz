@@ -87,16 +87,6 @@ Speaker and trainer on Metaverse & AI technologies. [ARÜ News](https://www.arda
 </details>
 
 <details>
-<summary>📇 <strong style="font-size: 20px;">References</strong></summary><br>
-
-- Yakup Kürşat Aras, Lecturer, Head of Computer Technologies Department  
-  ✉️ yakupkursataras@ardahan.edu.tr | 📞 +90 530 886 24 01
-- Emre Çoban, Lecturer  
-  ✉️ emrecoban@ardahan.edu.tr | 📞 +90 542 224 78 34
-
-</details>
-
-<details>
 <summary>🎸 <strong style="font-size: 20px;">Interests</strong></summary><br>
 
 - Playing musical instruments as a creative and emotional outlet
