@@ -1,35 +1,53 @@
+👋 Hi there, I'm Yasin Yıldız
 
-### 👋 Merhaba, Ben Yasin Yıldız
+📍 Istanbul, Turkey💼 Software Developer (Full Stack + DevOps)📧 ysn.yldzzza@gmail.com📱 +90 534 583 32 73🔗 LinkedIn🔗 GitHub📄 View my CV
 
-📍 İstanbul / Türkiye  
-💻 Full-Stack Developer  
-🎯 Hedefim: Geliştirerek öğrenmek, öğrenerek üretmek!
+🔭 I’m currently working on React and Node.js.
 
----
+📁 Projects
 
-### 🚀 Kullandığım Teknolojiler:
+Project
 
-![React](https://img.shields.io/badge/-React-090909?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=flat&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-090909?style=flat&logo=tailwindcss)
-![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
+Description
 
----
+Built with
 
-### 📂 Portföy Projelerim
+🍔 Food Order Backend
 
-- 🔗 [Market Otomasyonu](https://github.com/yasinylz/Market-Automation)
-- 🔗 [Food Order Backend](https://github.com/yasinylz/Node.js-Food-Order-Backend)
-- 🔗 [GitHub Finder](https://github.com/yasinylz/GitHub-Finder)
+A secure backend system for managing restaurant orders with role-based authorization and payment integrations.
 
----
+Node.js, Express.js, MongoDB
 
-### 📄 Özgeçmişim / CV
-> [CV’ye Gitmek için tıklayın](https://drive.google.com/linkiniburadaekle)
+🏪 Market Automation
 
----
+QR-code based inventory and sales management system for local retailers.
 
-### 🌐 Bana Ulaşın:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yasin-yıldız)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@ysn.yldzza)
+React, Node.js, MongoDB
+
+🔍 GitHub-Finder
+
+A GitHub user profile search and inspection tool.
+
+React, GitHub API
+
+🧠 Skills
+
+Languages: C#, JavaScript, TypeScriptFrontend: React, HTML, CSS, TailwindCSS, BootstrapBackend: Node.js, Express.js, ASP.NETDatabases: MongoDB, SQLDevOps: Docker, Kubernetes, AWS, CI/CDTools: Git, GitHub, VSCode, Postman
+
+💼 Experience
+
+Software Developer – NFS SOFT (2024 – 2025)Worked on secure API development, role-based authentication, and backend/frontend integration.
+
+IT Specialist – Business Channel Türk TV (2023 – 2024)Contributed to infrastructure optimization, secure system setup, and internal tool development.
+
+📚 Publications
+
+Node.js’e Giriş – Başlangıç Rehberi (2024)
+
+Dosya Sistemleri ve Kümeleme (2023)
+
+Yazılım Geliştirmeye Başlangıç Rehberi (2024)
+
+🎤 Speaking & Conferences
+
+Metaverse Konferansı – Ardahan University (2024)Speaker and trainer on Metaverse & AI technologies.
