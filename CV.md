@@ -26,7 +26,7 @@ Always open to learning and driven by analytical thinking and problem-solving sk
 |--------|-------------|------------|
 | 🍔 [Food Order Backend](https://github.com/yasinylz/Node.js-Food-Order-Backend) | Backend system for restaurant order management, secure payment handling, and admin/staff role management. | Node.js, Express.js, MongoDB |
 | 🏪 [Market Automation](https://github.com/yasinylz/Market-Automation) | QR-code based product and inventory management system for retailers. | React, Node.js, MongoDB |
-| 🔍 [GitHub-Finder](https://github.com/yasinylz/GitHub-Finder) | GitHub profile and repo search tool with user-friendly interface. | React, GitHub API |
+| 🔍 [GitHub-Finder](https://github.com/yasinylz/GitHub-Finder) | GitHub profile and repo search tool with user-friendly interface. | Html,Bootstrap, GitHub API |
 
 ---
 
