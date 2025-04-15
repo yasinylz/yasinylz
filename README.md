@@ -31,6 +31,8 @@
 | 🍔 [Food Order Backend](https://github.com/yasinylz/Node.js-Food-Order-Backend) | A secure backend system for managing restaurant orders with role-based authorization and payment integrations. | Node.js, Express.js, MongoDB |
 | 🏪 [Market Automation](https://github.com/yasinylz/Market-Automation) | QR-code based inventory and sales management system for local retailers. | React, Node.js, MongoDB |
 | 🔍 [GitHub-Finder](https://github.com/yasinylz/GitHub-Finder) | A GitHub user profile search and inspection tool. | React, GitHub API |
+| 🔍 [Modello-Store](https://yasinylz.github.io/Modello-Store/) | A simple e-commerce site built with React and Tailwind CSS.Modello-Store is a basic e-commerce site that provides a simple yet stylish interface for users to browse and shop products. | React,Tailwind |
+
 
 <details>
 <summary>🧠 <strong style="font-size: 20px;">Skills</strong></summary><br>
