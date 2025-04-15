@@ -43,9 +43,6 @@ Contributed to infrastructure optimization, secure system setup, and internal to
 **Metaverse Konferansı – Ardahan University (2024)**  
 Speaker and trainer on Metaverse & AI technologies.
 
-## 📇 References
-- Yakup Kürşat Aras – yakupkursataras@ardahan.edu.tr  
-- Emre Çoban – emrecoban@ardahan.edu.tr
 
 ---
 
