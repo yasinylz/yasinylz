@@ -11,16 +11,19 @@
 ---
 
 ## 🔭 I’m currently working on React and Node.js.
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS"/>
 </p>
+
+---
 
 ## 📁 Projects
 | Project | Description | Built with |
@@ -30,17 +33,17 @@
 | 🔍 [GitHub-Finder](https://github.com/yasinylz/GitHub-Finder) | A GitHub user profile search and inspection tool. | React, GitHub API |
 
 <details>
-<summary>🧠 <strong style="font-size: 18px;">Skills (click to expand)</strong></summary><br>
+<summary>🧠 <strong style="font-size: 20px;">Skills</strong></summary><br>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
 </p>
 
 **Languages:** C#, JavaScript, TypeScript  
@@ -54,7 +57,7 @@
 </details>
 
 <details>
-<summary>💼 <strong style="font-size: 18px;">Experience</strong></summary><br>
+<summary>💼 <strong style="font-size: 20px;">Experience</strong></summary><br>
 
 **Software Developer – NFS SOFT** (2024 – 2025)  
 Worked on secure API development, role-based authentication, and backend/frontend integration.
@@ -65,7 +68,7 @@ Contributed to infrastructure optimization, secure system setup, and internal to
 </details>
 
 <details>
-<summary>📚 <strong style="font-size: 18px;">Publications</strong></summary><br>
+<summary>📚 <strong style="font-size: 20px;">Publications</strong></summary><br>
 
 - Node.js’e Giriş – Başlangıç Rehberi (2024)  
 - Dosya Sistemleri ve Kümeleme (2023)  
@@ -74,7 +77,7 @@ Contributed to infrastructure optimization, secure system setup, and internal to
 </details>
 
 <details>
-<summary>🎤 <strong style="font-size: 18px;">Speaking & Conferences</strong></summary><br>
+<summary>🎤 <strong style="font-size: 20px;">Speaking & Conferences</strong></summary><br>
 
 **Metaverse Konferansı – Ardahan University (2024)**  
 Speaker and trainer on Metaverse & AI technologies. [ARÜ News](https://www.ardahan.edu.tr/duyuru-haber.aspx?type=1&id=2323)
@@ -82,7 +85,7 @@ Speaker and trainer on Metaverse & AI technologies. [ARÜ News](https://www.arda
 </details>
 
 <details>
-<summary>📇 <strong style="font-size: 18px;">References</strong></summary><br>
+<summary>📇 <strong style="font-size: 20px;">References</strong></summary><br>
 
 - Yakup Kürşat Aras, Lecturer, Head of Computer Technologies Department  
   ✉️ yakupkursataras@ardahan.edu.tr | 📞 +90 530 886 24 01
@@ -92,7 +95,7 @@ Speaker and trainer on Metaverse & AI technologies. [ARÜ News](https://www.arda
 </details>
 
 <details>
-<summary>🎸 <strong style="font-size: 18px;">Interests</strong></summary><br>
+<summary>🎸 <strong style="font-size: 20px;">Interests</strong></summary><br>
 
 - Playing musical instruments as a creative and emotional outlet
 
@@ -103,3 +106,4 @@ Speaker and trainer on Metaverse & AI technologies. [ARÜ News](https://www.arda
 > Welcome to my GitHub profile! For more insights, check out my [CV](https://github.com/yasinylz/yasinylz/blob/main/CV.md).
 
 🧠 I'm continuously learning and building. Feel free to explore my repositories!
+
