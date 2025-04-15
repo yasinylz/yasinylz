@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**yasinylz/yasinylz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Merhaba, Ben Yasin Yıldız
 
-Here are some ideas to get you started:
+📍 İstanbul / Türkiye  
+💻 Full-Stack Developer  
+🎯 Hedefim: Geliştirerek öğrenmek, öğrenerek üretmek!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Kullandığım Teknolojiler:
+
+![React](https://img.shields.io/badge/-React-090909?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=flat&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-090909?style=flat&logo=tailwindcss)
+![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
+
+---
+
+### 📂 Portföy Projelerim
+
+- 🔗 [Market Otomasyonu](https://github.com/yasinylz/Market-Automation)
+- 🔗 [Food Order Backend](https://github.com/yasinylz/Node.js-Food-Order-Backend)
+- 🔗 [GitHub Finder](https://github.com/yasinylz/GitHub-Finder)
+
+---
+
+### 📄 Özgeçmişim / CV
+> [CV’ye Gitmek için tıklayın](https://drive.google.com/linkiniburadaekle)
+
+---
+
+### 🌐 Bana Ulaşın:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yasin-yıldız)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@ysn.yldzza)
