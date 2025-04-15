@@ -6,7 +6,7 @@
 📱 +90 534 583 32 73  
 🔗 [LinkedIn](https://linkedin.com/in/yasin)  
 🔗 [GitHub](https://github.com/yasinylz)  
-📄 [View my CV](CV_LINKİNİ_BURAYA_EKLE)
+📄 [View My Cv](https://github.com/yasinylz/yasinylz/commit/c001cded96ff7bcf5bbc537d0aeffcbf17355d35)
 
 ---
 
@@ -46,7 +46,7 @@ Speaker and trainer on Metaverse & AI technologies.
 
 ---
 
-> Welcome to my GitHub profile! For more insights, check out my [CV](CV_LINKİNİ_BURAYA_EKLE).
+> Welcome to my GitHub profile! For more insights, check out my [CV](https://github.com/yasinylz/yasinylz/commit/c001cded96ff7bcf5bbc537d0aeffcbf17355d35).
 
 🧠 I'm continuously learning and building. Feel free to explore my repositories!
 
