@@ -38,19 +38,20 @@
 <summary>🤝 <strong style="font-size: 20px;">Supported Projects</strong></summary><br>
 
 ### 🛠 Yolum.net (Private Project)
-- Checkout ödeme formu kısmında işlevsel düzenlemeler ve dil dosyaları iyileştirildi.
-- Pricing modülü içinde ödeme formu geçici olarak yorum satırına alındı.
-- Çeşitli dil çevirilerinde ve yapılandırma klasörlerinde destek sağlandı.
+- Functional adjustments were made to the checkout payment form, and language files were improved.
+- The payment form in the pricing module was temporarily commented out.
+- Support was provided for various language translations and configuration folders.
 
 ### 🎨 Clean Sheet Services (Private Contribution)
-- Web sitesinde renk düzenlemeleri ve marka uyumuna yönelik görsel iyileştirmeler yapıldı.
-- Yeni logo entegrasyonu sağlandı, responsive uyumluluğu test edildi.
-- JavaScript slider zamanlama geçişleri optimize edildi ve kullanıcı deneyimi geliştirildi.
-- `services` klasöründe genel stil ve fonksiyonel düzenlemelere destek verildi.
+- Color adjustments and visual improvements were made for brand consistency on the website.
+- New logo integration was completed, and responsive compatibility was tested.
+- JavaScript slider timing transitions were optimized to enhance user experience.
+- General style and functional updates were made to the `services` folder.
 
-> Bu projeler private olduğu için detaylara erişim sadece yetkili kullanıcılar tarafından sağlanabilir.
+> These projects are private, so detailed access can only be granted to authorized users.
 
 </details>
+
 
 
 <details>
