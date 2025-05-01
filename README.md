@@ -32,7 +32,25 @@
 | 🍔 [Food Order Backend](https://github.com/yasinylz/Node.js-Food-Order-Backend) | A secure backend system for managing restaurant orders with role-based authorization and payment integrations. | Node.js, Express.js, MongoDB |
 | 🏪 [Market Automation](https://github.com/yasinylz/Market-Automation) | QR-code based inventory and sales management system for local retailers. | React, Node.js, MongoDB |
 | 🔍 [GitHub-Finder](https://github.com/yasinylz/GitHub-Finder) | A GitHub user profile search and inspection tool. | React, GitHub API |
-| 🔍 [Modello-Store](https://yasinylz.github.io/Modello-Store/) | A simple e-commerce site built with React and Tailwind CSS.Modello-Store is a basic e-commerce site that provides a simple yet stylish interface for users to browse and shop products. | React,Tailwind |
+| 🛍 [Modello-Store](https://yasinylz.github.io/Modello-Store/) | A simple e-commerce site built with React and Tailwind CSS. | React, Tailwind CSS |
+
+<details>
+<summary>🤝 <strong style="font-size: 20px;">Supported Projects</strong></summary><br>
+
+### 🛠 Yolum.net (Private Project)
+- Checkout ödeme formu kısmında işlevsel düzenlemeler ve dil dosyaları iyileştirildi.
+- Pricing modülü içinde ödeme formu geçici olarak yorum satırına alındı.
+- Çeşitli dil çevirilerinde ve yapılandırma klasörlerinde destek sağlandı.
+
+### 🎨 Clean Sheet Services (Private Contribution)
+- Web sitesinde renk düzenlemeleri ve marka uyumuna yönelik görsel iyileştirmeler yapıldı.
+- Yeni logo entegrasyonu sağlandı, responsive uyumluluğu test edildi.
+- JavaScript slider zamanlama geçişleri optimize edildi ve kullanıcı deneyimi geliştirildi.
+- `services` klasöründe genel stil ve fonksiyonel düzenlemelere destek verildi.
+
+> Bu projeler private olduğu için detaylara erişim sadece yetkili kullanıcılar tarafından sağlanabilir.
+
+</details>
 
 
 <details>
