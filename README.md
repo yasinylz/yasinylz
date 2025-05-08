@@ -2,7 +2,7 @@
 
 📍 Istanbul, Turkey  
 💼 Software Developer (Full Stack + DevOps)  
-📧 ysn.yldzzza@gmail.com  
+📧 ysn.yldzza@gmail.com  
 📱 +90 534 583 32 73  
 🔗 [LinkedIn](https://linkedin.com/in/yasin)  
 🔗 [GitHub](https://github.com/yasinylz)  
