@@ -10,7 +10,7 @@
 
 ---
 
-## 🔭 I’m currently working on React and Node.js.
+## 🔭 I'm currently working on building scalable full-stack applications with React, Node.js, and modern DevOps practices.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
