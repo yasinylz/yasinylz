@@ -1,6 +1,4 @@
-Tamam, senin Türkçe CV’ni örnek GitHub/Markdown stiline göre temiz ve okunaklı hâle getirdim:
 
----
 
 # 👋 Merhaba, ben Yasin Yıldız
 
@@ -117,8 +115,4 @@ Hedefim, ölçeklenebilir, güvenli ve kullanıcı merkezli yazılım çözümle
 
 * Enstrüman çalmak ve müzik ile ilgilenmek
 
----
 
-İstersen ben bunu **GitHub / Markdown formatına tam oturacak şekilde renkli emoji ve ikonlarla süsleyip**, projeler ve yetenekler için görsel olarak daha okunaklı hâle getirebilirim.
-
-Bunu yapmamı ister misin?
