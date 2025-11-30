@@ -1,117 +1,124 @@
-# 👋 Hi there, I'm Yasin Yıldız
+Tamam, senin Türkçe CV’ni örnek GitHub/Markdown stiline göre temiz ve okunaklı hâle getirdim:
 
-📍 Istanbul, Turkey  
-💼 Software Developer (Full Stack + DevOps)  
-📧 ysn.yldzzza@gmail.com  
-📱 +90 534 583 32 73  
-🔗 [LinkedIn](https://linkedin.com/in/yasin)  
+---
+
+# 👋 Merhaba, ben Yasin Yıldız
+
+📍 İstanbul, Türkiye
+💼 Backend Developer (Full Stack + DevOps)
+📧 [ysn.yldzzza@gmail.com](mailto:ysn.yldzzza@gmail.com)
+📱 +90 534 583 32 73
+🔗 [LinkedIn](https://www.linkedin.com/in/yasin-yıldız)
 🔗 [GitHub](https://github.com/yasinylz)
 
 ---
 
-## 💬 About Me
+## 💬 Hakkımda
 
-I'm a passionate software developer with broad technical expertise in web development, IT infrastructure, and DevOps practices. I actively develop scalable, secure applications using the JavaScript/TypeScript ecosystem with a strong focus on user experience.
+Sürekli öğrenme ve kendini geliştirme tutkusu ile hareket eden bir yazılım geliştiricisiyim. Web geliştirme, backend mimarisi ve sistem yönetimi alanlarında aktif rol alarak projelerimi şekillendiriyorum.
 
-I specialize in React, Node.js, Express.js, MongoDB, and SQL. In addition to frontend and backend development, I have knowledge in CI/CD pipelines, basic test automation, and DevOps workflows. I'm experienced in unit testing, and deployment processes using AWS, Docker, and Kubernetes.
+JavaScript ve TypeScript ekosistemlerinde orta düzey uzmanlığa sahibim; ElysiaJS, Node.js, Express.js ve ASP.NET Core ile güvenilir backend sistemleri tasarlıyorum. Frontend tarafında React ve Eta Template Engine ile kullanıcı odaklı ve sezgisel arayüzler geliştiriyorum.
 
-I also work on role-based authentication, API security, and payment system integration. I'm constantly improving my knowledge in Linux and cybersecurity, especially in system hardening and performance optimization.
+Veritabanı olarak MongoDB, PostgreSQL ve SQL kullanıyor, Prisma ve DrizzleORM gibi ORM araçlarını veri akışını optimize etmek için entegre ediyorum. Yazılım süreçlerinde güvenlik ve performansı önceliklendiriyor; JWT tabanlı kimlik doğrulama, rol tabanlı yetkilendirme, API güvenliği ve WebSocket ile gerçek zamanlı iletişim konularında deneyimliyim.
 
-Always open to learning and driven by analytical thinking and problem-solving skills, I aim to deliver effective, sustainable solutions in every project I contribute to.
+Linux, siber güvenlik ve DevOps konularında kendimi sürekli geliştiriyor; Docker ile konteynerleştirme ve temel CI/CD akışları ile sistemleri daha verimli hâle getiriyorum.
 
----
-
-## 📁 Projects
-
-| Project | Description | Built with |
-|--------|-------------|------------|
-| 🍔 [Food Order Backend](https://github.com/yasinylz/Node.js-Food-Order-Backend) | Backend system for restaurant order management, secure payment handling, and admin/staff role management. | Node.js, Express.js, MongoDB |
-| 🏪 [Market Automation](https://github.com/yasinylz/Market-Automation) | QR-code based product and inventory management system for retailers. | React, Node.js, MongoDB |
-| 🔍 [GitHub-Finder](https://github.com/yasinylz/GitHub-Finder) | GitHub profile and repo search tool with user-friendly interface. | HTML, Bootstrap, GitHub API |
+Hedefim, ölçeklenebilir, güvenli ve kullanıcı merkezli yazılım çözümleri üreten bir full-stack geliştirici olarak kariyerimi ilerletmek ve yenilikçi yaklaşımlarla iş dünyasına değer katmaktır.
 
 ---
 
-## 🧠 Skills
+## 💼 Profesyonel Deneyim
 
-**Languages:** C#, JavaScript, TypeScript  
-**Databases:** MongoDB, SQL  
-**Markup & Styling:** HTML, CSS, TailwindCSS, Bootstrap  
-**Frameworks:** React, Node.js, Express.js, ASP.NET  
-**API Development:** REST APIs, Secure Authentication  
-**DevOps:** CI/CD, Docker, Kubernetes, AWS, Deployment  
-**Other Tools:** Git, GitHub, MS Office, Remote Tools (AnyDesk, etc.)
+**Backend Developer – NUVİO (Freelancer, Uzaktan)**
+*09/2025 – Günümüz | İstanbul, Türkiye*
 
----
+* Node.js tabanlı backend geliştirmelerini yürütüyor, frontend desteği sağlayarak ekibin ölçeklenebilir projeler geliştirmesine katkıda bulunuyorum.
 
-## 💼 Professional Experience
+**Software Developer – NFS SOFT (Freelancer, Uzaktan)**
+*05/2024 – 02/2025 | Erzurum, Türkiye*
 
-**Software Developer – NFS SOFT**  
-*2024 – 2025 – Erzurum, Turkey*  
-Contributed to frontend/backend integration, role-based auth, API security, and payment system development with performance optimizations.
+* Rol tabanlı kimlik doğrulama, API güvenliği ve ödeme entegrasyonu konularında çalıştım; backend ve frontend sistemlerini optimize ettim.
 
-**IT Specialist – Business Channel Türk TV**  
-*2023 – 2024 – Istanbul, Turkey*  
-Involved in web development, system management, and infrastructure optimization. Played a key role in secure and efficient broadcasting systems.
+**Intern Full-Stack Developer – Clean Sheet Global**
+*04/2025 – 10/2025 | İstanbul, Türkiye*
 
----
+* ElysiaJS + Eta + Pug ile SSR destekli web uygulamaları ve Node.js REST API’leri geliştirdim.
 
-## 📚 Publications
+**Konuk Koordinatörü & Teknik Destek Elemanı – Business Channel Türk TV**
+*05/2023 – 09/2023 | İstanbul, Türkiye*
 
-- **Getting Started with Node.js: A Guide for Web Developers (2024)**  
-- **File Systems and Disk Clustering Techniques (2023)**  
-- **Beginner's Guide to Starting a Software Development Career (2024)**
+* Yayın sistemleri, ağ, cihaz ve kullanıcı desteği sağladım.
 
 ---
 
-## 🎤 Conferences & Public Speaking
+## 🧠 Yetenekler
 
-**Metaverse Conference – Ardahan University (2024)**  
-Presented on the role of Metaverse and AI in future technologies.  
-📎 [ARÜ News](https://www.ardahan.edu.tr/duyuru-haber.aspx?type=1&id=2323)
-
----
-
-## 🤝 Supported Projects
-
-### 🛠 Yolum.net (Private Project)  
-- Functional adjustments were made to the checkout payment form, and language files were improved.  
-- The payment form in the pricing module was temporarily commented out.  
-- Support was provided for various language translations and configuration folders.  
-
-### 🎨 Clean Sheet Services (Private Contribution)  
-- Color adjustments and visual improvements were made for brand consistency on the website.  
-- New logo integration was completed, and responsive compatibility was tested.  
-- JavaScript slider timing transitions were optimized to enhance user experience.  
-- General style and functional updates were made to the services folder.  
-
-> *These projects are private, so detailed access can only be granted to authorized users.*
+**Programlama Dilleri:** JavaScript, TypeScript, C#
+**Framework’ler & Kütüphaneler:** Node.js, Express.js, ElysiaJS, React, ASP.NET Core, Eta Template Engine, Pug
+**Veritabanları:** MongoDB, PostgreSQL, SQL
+**Güvenlik & Kimlik Doğrulama:** JWT Authentication, Role-Based Access Control (RBAC)
+**DevOps & CI/CD:** Docker, CI/CD süreçleri, AWS (Temel), Deployment
+**Diğer Araçlar:** Git / GitHub, MS Office, Uzaktan teknik destek (AnyDesk vb.)
+**İşaretleme & Stil Dilleri:** HTML, CSS, Tailwind, Bootstrap
+**API’ler:** REST API, WebSocket
+**Yapay Zeka:** OpenAI API, Web & Mobil AI Entegrasyonu
 
 ---
 
-## 🎓 Education
+## 📁 Projeler
 
-**Ardahan University – Technical Sciences Vocational School**  
-*Associate Degree in Computer Programming (GPA: 3.09/4.00)*  
-*2022 – 2024 | Ardahan, Turkey*
+| Proje                                                                                       | Açıklama                                                                                        | Teknolojiler                 |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------- |
+| 🍔 [Node.js Yemek Siparişi Backend](https://github.com/yasinylz/Node.js-Food-Order-Backend) | Yemek sipariş ve teslimat süreçlerini yöneten backend API’si.                                   | Node.js, Express.js, MongoDB |
+| 🏪 [Market Otomasyonu – QR Kod Tabanlı](https://github.com/yasinylz/Market-Automation)      | Marketlerde ürün ekleme, stok takibi ve satış işlemleri için QR kod destekli otomasyon sistemi. | React, Node.js, MongoDB      |
+| 🔍 [Modello-Store](https://github.com/yasinylz/Extensive-Management-System-API)             | React + Tailwind CSS ile geliştirilen basit ve şık e-ticaret sitesi.                            | React, Tailwind CSS          |
+| 📂 [Diğer projelerime göz at](https://github.com/yasinylz) | Tüm açık kaynak ve kişisel projelerimi inceleyebilirsiniz | 🌐 |
 
----
 
-## 📇 References
-
-**Yakup Kürşat Aras**  
-Lecturer, Head of Computer Technologies Department  
-✉️ yakupkursataras@ardahan.edu.tr | 📞 +90 530 886 24 01
-
-**Emre Çoban**  
-Lecturer  
-✉️ emrecoban@ardahan.edu.tr | 📞 +90 542 224 78 34
 
 ---
 
-## 🎸 Interests
+## 🎓 Eğitim
 
-- Playing musical instruments as a creative and emotional outlet
+**Ardahan Üniversitesi – Teknik Bilimler MYO**
+*Bilgisayar Programlama, Önlisans (GPA: 3.09/4.00)*
+*2022 – 2024 | Ardahan, Türkiye*
 
 ---
 
-> 🧠 I'm continuously learning and building. Feel free to explore my repositories!
+## 📚 Yayınlar
+
+* Node.js’e İlk Adım: Web Geliştiricileri için Kapsamlı Başlangıç Rehberi (2024)
+* Yazılım Geliştirmede Kariyere Başlangıç: 7 Temel İpucu (2024)
+* Dosya Sistemleri ve Disk Kümeleme Sistemleri (2024)
+
+---
+
+## 🎤 Konferanslar & Sunumlar
+
+**Metaverse Konferansı – Ardahan Üniversitesi (2024)**
+
+* Metaverse ve Yapay Zeka’nın günümüz dünyasındaki rolü üzerine sunum ve konferans düzenledim.
+
+---
+
+## 🤝 Referanslar
+
+* **Muhammet Furkan Doğan**, Bilgisayar Mühendisi, NFS SOFT
+  [furkan@nfssoft.com](mailto:furkan@nfssoft.com) | +90 530 730 16 96
+* **Yakup Kürşat Aras**, Öğretim Görevlisi, Bilgisayar Teknolojileri Bölüm Başkanı, Ardahan Üniversitesi
+  [yakupkursataras@ardahan.edu.tr](mailto:yakupkursataras@ardahan.edu.tr) | +90 530 886 24 01
+* **Emre Çoban**, Öğretim Görevlisi, Ardahan Üniversitesi
+  [emrecoban@ardahan.edu.tr](mailto:emrecoban@ardahan.edu.tr) | +90 542 224 78 34
+
+---
+
+## 🎸 İlgi Alanları
+
+* Enstrüman çalmak ve müzik ile ilgilenmek
+
+---
+
+İstersen ben bunu **GitHub / Markdown formatına tam oturacak şekilde renkli emoji ve ikonlarla süsleyip**, projeler ve yetenekler için görsel olarak daha okunaklı hâle getirebilirim.
+
+Bunu yapmamı ister misin?
