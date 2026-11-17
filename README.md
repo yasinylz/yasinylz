@@ -1,122 +1,109 @@
-# 👋 Hi there, I'm **Yasin Yıldız**
+👋 Hi, I'm Yasin Yıldız
 
-📍 Istanbul, Turkey  
-💼 Software Developer (Full Stack + DevOps)  
-📧 ysn.yldzza@gmail.com  
-📱 +90 534 583 32 73  
-🔗 [LinkedIn](https://linkedin.com/in/yasin)  
-🔗 [GitHub](https://github.com/yasinylz)  
-📄 [View My CV](https://github.com/yasinylz/yasinylz/blob/main/CV.md)
+📍 Istanbul, Türkiye
+💼 IT Support Specialist | ERP, Linux & Business Applications
+📧 ysn.yldzza@gmail.com
+📱 +90 534 583 32 73
+🔗 LinkedIn
+🔗 GitHub
+📄 View my CV
 
----
+About
 
-## 🔭 I’m currently working on React and Node.js.
+I work in IT support, helping users resolve computer, peripheral, business application, ERP, and accounting software issues. My current work includes supporting Nebula ERP and B2B applications, troubleshooting data issues with SQL, and working with Ubuntu Server and Linux command-line tools.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
+I also contribute to business software and mobile application development with Flutter and Node.js. I focus on keeping day-to-day operations reliable and making internal workflows easier to use.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS"/>
-</p>
+Current Role
 
----
+IT Support Specialist — Melih Gıda Ltd. Şti.
+February 2025 – Present
 
-## 📁 Projects
-| Project | Description | Built with |
-|--------|-------------|------------|
-| 🍔 [Food Order Backend](https://github.com/yasinylz/Node.js-Food-Order-Backend) | A secure backend system for managing restaurant orders with role-based authorization and payment integrations. | Node.js, Express.js, MongoDB |
-| 🏪 [Market Automation](https://github.com/yasinylz/Market-Automation) | QR-code based inventory and sales management system for local retailers. | React, Node.js, MongoDB |
-| 🔍 [GitHub-Finder](https://github.com/yasinylz/GitHub-Finder) | A GitHub user profile search and inspection tool. | React, GitHub API |
-| 🛍 [Modello-Store](https://yasinylz.github.io/Modello-Store/) | A simple e-commerce site built with React and Tailwind CSS. | React, Tailwind CSS |
-| 🟢 [Extensive-Management-System-API](https://github.com/yasinylz/Extensive-Management-System-API) | A simple e-commerce site built with React and Tailwind CSS. | React, Tailwind CSS |
+Troubleshoot hardware and software issues affecting user computers, printers, internal applications, and accounting software.
 
-<details>
-<summary>🤝 <strong style="font-size: 20px;">Supported Projects</strong></summary><br>
+Support Nebula ERP and Mikro accounting software, including setup, user support, issue resolution, and integration needs.
 
-### 🛠 Yolum.net (Private Project)
-- Functional adjustments were made to the checkout payment form, and language files were improved.
-- The payment form in the pricing module was temporarily commented out.
-- Support was provided for various language translations and configuration folders.
+Work with Ubuntu Server, Linux terminal tools, server administration, and basic network configuration including TCP/IP, DNS, DHCP, and IP settings.
 
-### 🎨 Clean Sheet Services (Private Contribution)
-- Color adjustments and visual improvements were made for brand consistency on the website.
-- New logo integration was completed, and responsive compatibility was tested.
-- JavaScript slider timing transitions were optimized to enhance user experience.
-- General style and functional updates were made to the `services` folder.
+Use SQL to investigate and resolve data issues and improve application performance and user workflows.
 
-> These projects are private, so detailed access can only be granted to authorized users.
+Contribute to internal software and B2B application work that helped eliminate approximately TRY 200,000 in annual external software costs and supported an approximately 15% increase in company sales.
 
-</details>
+Selected Projects
 
+Project
 
+Description
 
-<details>
-<summary>🧠 <strong style="font-size: 20px;">Skills</strong></summary><br>
+Nebula ERP
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
-</p>
+Internal operations application with modules for invoicing, delivery notes, cash processes, and order management. I support its setup, use, and technical workflows.
 
-**Languages:** C#, JavaScript, TypeScript  
-**Databases:** MongoDB, SQL  
-**Markup & Styling:** HTML, CSS, TailwindCSS, Bootstrap  
-**Frameworks:** React, Node.js, Express.js, ASP.NET  
-**API Development:** REST APIs, Secure Authentication  
-**DevOps:** CI/CD, Docker, Kubernetes, AWS, Deployment  
-**Other Tools:** Git, GitHub, MS Office, Remote Tools (AnyDesk, etc.)
+Melih Gıda B2B
 
-</details>
+Food ordering and customer management application for Melih Gıda customers. I contributed to its Flutter application and support work.
 
-<details>
-<summary>💼 <strong style="font-size: 20px;">Experience</strong></summary><br>
+Has Tüketim B2B
 
-**Software Developer – NFS SOFT** (2024 – 2025)  
-Worked on secure API development, role-based authentication, and backend/frontend integration.
+B2B application for customers to place and manage tobacco product orders.
 
-**IT Specialist – Business Channel Türk TV** (2023 – 2024)  
-Contributed to infrastructure optimization, secure system setup, and internal tool development.
+242 DIGITAL
 
-</details>
+Business platform where I worked on performance optimization, the management panel, and critical bug fixes.
 
-<details>
-<summary>📚 <strong style="font-size: 20px;">Publications</strong></summary><br>
+Food Order Backend
 
-- Node.js’e Giriş – Başlangıç Rehberi (2024)  
-- Dosya Sistemleri ve Kümeleme (2023)  
-- Yazılım Geliştirmeye Başlangıç Rehberi (2024)
+REST API for restaurant users, businesses, orders, and payments, with JWT authentication and role management.
 
-</details>
+Market Automation
 
-<details>
-<summary>🎤 <strong style="font-size: 20px;">Speaking & Conferences</strong></summary><br>
+QR-code based product, stock, and sales management application.
 
-**Metaverse Konferansı – Ardahan University (2024)**  
-Speaker and trainer on Metaverse & AI technologies. [ARÜ News](https://www.ardahan.edu.tr/duyuru-haber.aspx?type=1&id=2323)
+Technical Skills
 
-</details>
+IT Support: User support, computer and peripheral troubleshooting, software setup, business application support
 
-<details>
-<summary>🎸 <strong style="font-size: 20px;">Interests</strong></summary><br>
+ERP and Business Applications: Nebula ERP, Mikro accounting software, B2B systems
 
-- Playing musical instruments as a creative and emotional outlet
+Servers and Networking: Ubuntu Server, Linux command line, Linux server administration, TCP/IP, DNS, DHCP, IP configuration
 
-</details>
+Databases: SQL, PostgreSQL, MongoDB, Prisma ORM
 
----
+Development: Flutter, Node.js, Express.js, ElysiaJS, REST APIs, React
 
-> Welcome to my GitHub profile! For more insights, check out my [CV](https://github.com/yasinylz/yasinylz/blob/main/CV.md).
+Tools and Automation: Docker, Git, GitHub, Postman, Telegram bots, AI agents
 
-🧠 I'm continuously learning and building. Feel free to explore my repositories!
+Experience
 
+Backend Developer — NUVIO
+June 2025 – November 2025 · Freelance, Remote
+
+Fixed issues and developed endpoints for Node.js REST APIs.
+
+Worked on JWT authentication and role management.
+
+Tested APIs with Postman and supported frontend API integration.
+
+Software Developer — NFS SOFT
+May 2024 – February 2025 · Freelance, Remote
+
+Implemented role-based access control and contributed to API security and payment integration.
+
+Improved data flow between backend and frontend systems.
+
+Guest Coordinator & Technical Support Staff — Business Channel Türk TV
+May 2023 – September 2023
+
+Coordinated guests and provided technical support for broadcasting systems.
+
+Education
+
+Business Administration, Bachelor's degree program — Open Education Faculty, currently studying
+
+Computer Programming, Associate degree — Ardahan University, 2022–2024 · GPA: 3.09/4.00
+
+Languages
+
+English: A2, technical documentation reading and writing
+
+Kurdish: B1
